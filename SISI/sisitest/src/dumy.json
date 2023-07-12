@@ -1,0 +1,146 @@
+[
+    {
+        "no": 1,
+        "dokno": "REQ/ATK/DUMMY/01",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"SISI",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 2,
+        "dokno": "REQ/ATK/DUMMY/02",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"SISI",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    },
+    {
+        "no": 3,
+        "dokno": "REQ/ATK/DUMMY/03",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"SISI",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 4,
+        "dokno": "REQ/ATK/DUMMY/04",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"SISI",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    },
+    {
+        "no": 5,
+        "dokno": "REQ/ATK/DUMMY/05",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"SISI",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 6,
+        "dokno": "REQ/ATK/DUMMY/06",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"AP1",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    },
+    {
+        "no": 7,
+        "dokno": "REQ/ATK/DUMMY/07",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"AP1",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 8,
+        "dokno": "REQ/ATK/DUMMY/08",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"AP1",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    },
+    {
+        "no": 9,
+        "dokno": "REQ/ATK/DUMMY/09",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"AP1",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 10,
+        "dokno": "REQ/ATK/DUMMY/10",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"AP1",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    },
+    {
+        "no": 13,
+        "dokno": "REQ/ATK/DUMMY/13",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company":"AP1",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 14,
+        "dokno": "REQ/ATK/DUMMY/14",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company": "AP2",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    },
+    {
+        "no": 15,
+        "dokno": "REQ/ATK/DUMMY/15",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company": "AP2",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 16,
+        "dokno": "REQ/ATK/DUMMY/16",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company": "AP2",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    },
+    {
+        "no": 17,
+        "dokno": "REQ/ATK/DUMMY/17",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company": "AP2",
+        "itemcount":3,
+        "status":"Draft"
+    },
+    {
+        "no": 18,
+        "dokno": "REQ/ATK/DUMMY/18",
+        "date": "2023-07-10",
+        "createdby":"Prima Kurniawan",
+        "company": "AP2",
+        "itemcount":5,
+        "status":"Waiting Approval"
+    }
+]
